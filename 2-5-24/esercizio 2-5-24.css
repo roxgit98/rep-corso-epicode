@@ -1,0 +1,37 @@
+header{
+    text-align: center;
+    ;
+}
+.logo1{
+    width: 10%;
+}
+
+#linea{
+    border: 0.01em solid aqua;
+    align-items: center;
+    width: 50em
+}
+
+.linealogo{
+    border: 0.1em solid yellow;
+    align-items: center;
+    width: 100%;
+}
+
+
+#FABULOUS{
+    color: aqua;
+}
+.iniziosottologo{
+    background-color: rgba(251, 255, 0, 0.171);
+padding: 0.1em
+}
+
+.focacciaimg{
+    
+    width: 20%
+    
+}
+body{
+    text-align: center;
+}
