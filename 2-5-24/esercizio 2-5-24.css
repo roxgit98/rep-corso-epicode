@@ -29,9 +29,19 @@ padding: 0.1em
 
 .focacciaimg{
     
-    width: 20%
+    width: 90%;
+    border-radius: 5px
     
 }
-body{
+
+main{
+    width: 50%;
+    margin: auto;
+}
+#parte-superiore{
     text-align: center;
+}
+#parte-inferiore{
+    width: 50%;
+    margin: auto;
 }
