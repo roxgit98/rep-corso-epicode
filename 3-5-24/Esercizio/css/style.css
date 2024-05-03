@@ -24,21 +24,23 @@ background-size: 100%;
 }
 #blu{
     color: rgb(52, 109, 233);
-    font-size: 2em;
-    margin: 20px;
+    font-size: 3em;
+    margin: auto;
+    padding: 15px;
 }
 #bottone{
    background-color: orangered ;
-    border-radius: 5px;
+    border-radius: 10px;
  width: 120px;
- height: 30px;
+ padding: 10px;
  margin: 30px;
  color: white;
 }
 
 .notebook{
-    width: 400px;
+    width: 300px;
     border-radius: 50% 50% 50% 50% / 50% 50% 50% 50% ;
+    padding: 10px;
 }
 
 #foto123{
@@ -68,19 +70,19 @@ font-style: oblique;
 }
 
 .card1{
-    border: solid rgb(128, 128, 128);
+    border: solid rgb(238, 232, 232);
     width: 400px;
  margin: 10px auto;
 }
 
 .card2{
-    border: solid rgb(128, 128, 128);
+    border: solid rgb(238, 232, 232);
     width: 400px;
  margin: 10px auto;
 }
 
 .card3{
-    border: solid rgb(128, 128, 128);
+    border: solid rgb(238, 232, 232);
     width: 400px;
  margin: 10px auto;
 }
@@ -92,4 +94,11 @@ footer{
 
 hr{
     max-width: 200px;
+}
+
+p{
+    padding: 10px;
+}
+.contact{
+    font-size: 2em;
 }
